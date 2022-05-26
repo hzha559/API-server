@@ -70,11 +70,11 @@ def get_task1(asset,start,end):
             conn.close()
             
             conn1 = pymssql.connect(
-            host=r'10.0.10.105',
+            host=r'10.0.10.999',
             port=1433,
-            user=r'WIN-4VTN20OQBVU\Administrator',
-            password='Windows1!',
-            database='opi',
+            user=r'WIN-4VTN20OQBVU\Afgfgfgf',
+            password='Windfgfg!',
+            database='ofgfgfggf',
             timeout=15
             )
             
